@@ -1,0 +1,130 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+div {
+    margin: 0px;
+    padding: 0px;
+    background-color: #faf3e0;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#box {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+}
+
+.bottomcloud {
+    position: absolute;
+}
+
+.topcloud {
+    position: absolute;
+    right: 20%;
+    top: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.skill-row {
+    width: 50%;
+    display: inline-block;
+    margin: 10px auto 10px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.video-editing {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.game-dev {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+#pp {
+    width: 20%;
+    margin: 50px auto 0px auto;
+}
+
+.profile {
+    padding-bottom: 10px;
+}
+
+hr {
+    background-color: transparent;
+    border-width: 5px 0 0 0;
+    border-style: dotted;
+    width: 20%;
+    border-color: rgba(126, 126, 126, 0.596);
+}
+
+.btn {
+    padding: 10px;
+    text-decoration: none;
+    color: #faf3e0;
+    background-color: #66BFBF;
+    border-radius: 5px;
+    position: relative;
+    top: 20px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 0px;
+    padding: 20px;
+}
+
+.contact-me {
+    padding-bottom: 50px;
+}
+
+#end_attrib {
+    color: white;
+    font-size: 14px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #11999E;
+    font-style: normal;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.mountain {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
